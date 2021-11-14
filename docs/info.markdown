@@ -1,7 +1,7 @@
 ---
 layout: page
 title: info
-permalink: maintenance/info/
+permalink: /info/
 ---
 
 [Maintenance request form](https://clomm.atlassian.net/servicedesk/customer/portal/3)
