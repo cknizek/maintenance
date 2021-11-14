@@ -6,6 +6,7 @@ permalink: /active_tasks/
 
 # Electrical
 - Use GFCI outlet tester to individually test, inspect, and record operating parameters for each GFCI outlet in each bathroom. Write down voltage, any error codes (or lack thereof), as well as the GFCI trip-time. Upload the recorded data to your crew Google Drive folder.
+- Use outlet tester on all outlets in common spaces. Upload all relevant data (receptable voltage and any error codes). Use multimeter and measure the neutral-to-ground voltage. Set the multimeter to the ~200V dial (for AC), place the positive (red) probe in the neutral slot, and the negative (black) probe in the ground slot. Record the voltage displayed on the multimeter and upload it along with the outlet tester data.
 - Develop catalog system for electrical monitoring. This will be implemented by each outlet in Cloyne having an alpha-numeric tag label, in addition to a QR code for faster data entry.
 - Develop network graph/map of Cloyne's electrical breaker panels. Each circuit breaker in each breaker panel should have the corresponding table of confirmed receptables & lighting fixtures that are tied to the circuit breaker.
 - Develop catalog system for lighting fixture monitoring. Each lighting fixture will have a corresponding alpha-numeric tag, in addition to a QR code, that will be scanned and updated each time there is a fault with the fixture.
