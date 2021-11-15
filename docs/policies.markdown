@@ -7,7 +7,8 @@ permalink: /me/
 ### Contacting us
 - Email is the absolute last resort to contact us. The order is as follows.
 **Atlassian** --> Maintenance hours --> Email
-This is not only for our sake. Email is ineffective for communicating anything complex that can't be answered within 30 seconds or so. This is because new emails will generally unconsciously override the old ones in terms of attention, causing us to lose track. 
+
+- This is not only for our sake. Email is ineffective for communicating anything complex that can't be answered within 30 seconds or so. This is because new emails will generally unconsciously override the old ones in terms of attention, causing us to lose track. 
  
 - The Atlassian form has two sections: one for maintenance requests, and one for general questions. It's in the *links* section of this website. 
 
