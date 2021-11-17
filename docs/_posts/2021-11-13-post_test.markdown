@@ -12,7 +12,7 @@ categories: jekyll update
 
 ABCCCDDDD
 
-1. <A> is the current wing.
+"1." "<A>" is the current wing.
 2. <B> is the current floor.
 3. <CCC> is the type of electrical component.
 4. <DDD> is the serial number of the electrical component.
