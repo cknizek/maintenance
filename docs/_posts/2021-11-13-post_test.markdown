@@ -8,7 +8,6 @@ categories: jekyll update
 
 
 ### Model number encoding
-# version 1.
 ~~~
 ABCCCDDDD
 1. <A> is the current wing.
@@ -17,12 +16,4 @@ ABCCCDDDD
 4. <DDD> is the serial number of the electrical component.  
 >>> Example: W1SPL0001 = <W><1><SPL><0001>
 ~~~
-# version 2.
-~~~
-ABCDDDD
-1. <A> is the current wing.
-2. <B> is the current floor.
-3. <C> is the type of electrical component.
-4. <DDD> is the serial number of the electrical component.
->>> Example: W1L0001 = <W><1><L><0001>
-~~~
+
