@@ -9,13 +9,27 @@ categories: jekyll update
 
 ### Model number encoding
 ~~~
-ABCCCDDDD
-1. <A> is the current wing. A valid value is *W*, *C*, or *E*.
-2. <B> is the current floor.  A valid value is *0*, *1*, *2*, or *3*.
-3. <CCC> is the type of electrical component. A reference table has been included below.
-4. <DDD> is the serial number of the electrical component. A valid value is any unique integer in the range 0-9999. 
->>> Example: W1SPL0001 = <W><1><SPL><0001>
+ABCDDDEEEE
+1. <A> is the current wing. A valid value is <W>, <C>, or <E>.
+2. <B> is the current floor.  A valid value is <0>, <1>, <2>, or <3>.
+3. <C> is the current location. Valid values are <B>, <H>, <S>, <O>, <C>, <R>, and <U>. See reference table A.
+4. <DDD> is the type of electrical component. See reference table B.
+5. <EEEE> is the serial number of the electrical component. A valid value is any unique integer in the range 0-9999. 
+>>> Example: W1BFIX0001 = <W><1><SPL><0001>
 
+Reference Table A
+B <-> Bathroom
+H <-> Hallway
+S <-> Staircase
+O <-> Outside
+C <-> Common space
+R <-> Bedroom
+U <-> Unknown
 
+Reference Table B
+SPL <-> Breaker subpanel
+REC <-> Receptacle
+FIX <-> Lighting fixture
+UNK <-> Unknown
 ~~~
 
