@@ -17,7 +17,7 @@ In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using 
 * Once you have placed the label, take a photo of the placed label. Add this photo to your crew folder. Update your log of completed labels.
 
 ### What not to do
-An example of (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
+An example of how not do (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
 
 
 ## Phase 2
