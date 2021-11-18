@@ -16,4 +16,4 @@ permalink: /me/
 
 
 ### Requests
-- We will no longer unclog toilets or clear shower drains full of hair. For these, you're on your own.
+- We will no longer unclog toilets that have no actual plumbing issues. For these, you're on your own.
