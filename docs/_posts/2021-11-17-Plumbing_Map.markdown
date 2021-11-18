@@ -6,7 +6,11 @@ categories: jekyll update
 ---
 ### Stages
 # Phase 1
-In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using the encoding below. If the bathroom has a bath, label that instead. You will accomplish this by installing the Dymo Connect app. Then, you'll use the Dymo MobileLabeler to consequently print labels as you encounter untagged plumbing component or fixtures. The labels shall be placed in a location such that they adhere permanently. Before you place the label, clean the surface with isopropyl alcohol, and then wipe it with a microfiber cloth until dry. Then, carefully place the label against a location such that the label is; (i) clearly visible; (ii) as flat and/or homogenous as possible; (iii) relatively unexposed to sources of degradation. An example of (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
+##### What to do
+In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using the encoding below. If the bathroom has a bath, label that instead. You will accomplish this by installing the Dymo Connect app. Then, you'll use the Dymo MobileLabeler to consequently print labels as you encounter untagged plumbing component or fixtures. The labels shall be placed in a location such that they adhere permanently. Before you place the label, clean the surface with isopropyl alcohol, and then wipe it with a microfiber cloth until dry. Then, carefully place the label against a location such that the label is; (i) clearly visible; (ii) as flat and/or homogenous as possible; (iii) relatively unexposed to sources of degradation. 
+
+##### What not to do
+An example of (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
 
 
 ### Model number encoding
