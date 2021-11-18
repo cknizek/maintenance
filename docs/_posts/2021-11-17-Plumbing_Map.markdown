@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ### Stages
 # Phase 1
-##### What to do
+## What to do
 In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using the encoding below. If the bathroom has a bath, label that instead. 
 * You will accomplish this by installing the Dymo Connect app. 
 * You shall create a way to log completed labels. I'd recommend a spreadsheet or a text file. It doesn't need to be fancy. Whatever you decide, you'll need to update it in your crew folder every shift.
@@ -16,7 +16,7 @@ In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using 
 * Then, carefully place the label against a location such that the label is; (i) clearly visible; (ii) as flat and/or homogenous as possible; (iii) relatively unexposed to sources of degradation. 
 * Once you have placed the label, take a photo of the placed label. Add this photo to your crew folder. Update your log of completed labels.
 
-##### What not to do
+## What not to do
 An example of (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
 
 
