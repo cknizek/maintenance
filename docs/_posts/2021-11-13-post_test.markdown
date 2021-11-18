@@ -4,8 +4,24 @@ title:  "Electrical System Map: Design Doc (rev0)"
 date:   2021-11-13 15:46:09 -0800
 categories: jekyll update
 ---
-1. Install Dymo MobileLabeler app on phone
-2. 
+# Stages
+## Phase 1
+### What to do
+Every electrical component in Cloyne's electrical system shall be labeled using the process and encoding below. Electrical components include, at a high level, every switch, breaker panel, receptable ("outlet"), overhead lighting fixture, and so on and so forth. If it's permanently part of the building and deals with electricity, it should be labeled.
+* You will accomplish this by installing the Dymo Connect app. 
+* You shall create a way to log completed labels. I'd recommend a spreadsheet or a text file. It doesn't need to be fancy. Whatever you decide, you'll need to update it in your crew folder every shift.
+* Then, you'll use the Dymo MobileLabeler to consequently print labels as you encounter untagged plumbing component or fixtures. 
+* The labels shall be placed in a location such that they adhere permanently. 
+* Before you place the label, clean the surface with isopropyl alcohol, and then wipe it with a microfiber cloth until dry. 
+* Then, carefully place the label against a location such that the label is; (i) clearly visible; (ii) as flat and/or homogenous as possible; (iii) relatively unexposed to sources of degradation. 
+* Once you have placed the label, take a photo of the placed label. Add this photo to your crew folder. Update your log of completed labels.
+
+### What not to do
+An example of how not do (iii) would be if you placed the label inside the sink. An example of violating (ii) would be placing it *on* a drain cover. An example of violating (i) would be placing a label in a location that isn't immediately visible within 5 seconds. Additionally, make sure that the label placement is consistent.
+
+
+## Phase 2
+### TODO
 
 
 ### Model number encoding
