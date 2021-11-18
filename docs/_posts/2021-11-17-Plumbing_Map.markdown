@@ -8,10 +8,10 @@ categories: jekyll update
 ## Phase 1
 ### What to do
 In each bathroom in Cloyne, the sink, toilet, and shower shall be labeled using the encoding below. If the bathroom has a bath, label that instead. 
-* You will accomplish this by installing the Dymo Connect app. 
-* You shall create a way to log completed labels. I'd recommend a spreadsheet or a text file. It doesn't need to be fancy. Whatever you decide, you'll need to update it in your crew folder every shift.
+* You'll accomplish this by installing the Dymo Connect app. 
+* You'll create a way to log completed labels. I'd recommend a spreadsheet or a text file. It doesn't need to be fancy. Whatever you decide, you'll need to update it in your crew folder every shift.
 * Then, you'll use the Dymo MobileLabeler to consequently print labels as you encounter untagged plumbing component or fixtures. 
-* The labels shall be placed in a location such that they adhere permanently. 
+* The labels should be placed in a location such that they adhere permanently. 
 * Before you place the label, clean the surface with isopropyl alcohol, and then wipe it with a microfiber cloth until dry. 
 * Then, carefully place the label against a location such that the label is; (i) clearly visible; (ii) as flat and/or homogenous as possible; (iii) relatively unexposed to sources of degradation. 
 * Once you have placed the label, take a photo of the placed label. Add this photo to your crew folder. Update your log of completed labels.
