@@ -5,15 +5,12 @@ permalink: /me/
 ---
 
 ### Contacting us
-- Email is the absolute last resort to contact us. The order is as follows.
-**Atlassian** --> Maintenance hours --> Email
+1a. Habitability hours can only be submitted through the form in our email signature. If you emailed us asking us to put in your hours (or something similar), your email was deleted. 
+1b. Maintenance requests can only be submitted through the maintenance request portal in our email signature, labeled "Maintenance Request Form". Similarly, if you tried to email a maintenance request, your email was deleted.
+1c. (!) Maintenance questions must be submitted through the "Questions for maintenance" section of the portal. You can reach the portal by clicking on "Maintenance Request Form". 
+1d. We only monitor our email inbox from 6:00-7:00pm daily. 
+1e. I'm working on creating a formal policy that can be referenced, rather than relying on email.
 
-- This is not only for our sake. Email is ineffective for communicating anything complex that can't be answered within 30 seconds or so. This is because new emails will generally unconsciously override the old ones in terms of attention, causing us to lose track. 
- 
-- The Atlassian form has two sections: one for maintenance requests, and one for general questions. It's in the *links* section of this website. 
-
-- We will not reply, read, or see emails outside of the 6:00-7:00pm window of maintenance hours.
-
-
-### Requests
-- We will no longer unclog toilets that have no actual plumbing issues. For these, you're on your own.
+### Habitability/HI
+2a. The bounty board is a list of suggestions. If you're worried about hours, walk around --> find something or somewhere that's dirty/dusty (take a picture) --> clean it (take another picture) --> submit form with # hours worked (include pictures). Anywhere that's not behind a locked door is fair game.
+22b. There's no benefit to logging more than 4 hours. It won't roll over to workshift or anything else.
