@@ -12,5 +12,5 @@ permalink: /me/
 1. I'm working on creating a formal policy that can be referenced, rather than relying on email.
 
 ### Habitability/HI
-2a. The bounty board is a list of suggestions. If you're worried about hours, walk around --> find something or somewhere that's dirty/dusty (take a picture) --> clean it (take another picture) --> submit form with # hours worked (include pictures). Anywhere that's not behind a locked door is fair game.
-22b. There's no benefit to logging more than 4 hours. It won't roll over to workshift or anything else.
+1. The bounty board is a list of suggestions. If you're worried about hours, walk around --> find something or somewhere that's dirty/dusty (take a picture) --> clean it (take another picture) --> submit form with # hours worked (include pictures). Anywhere that's not behind a locked door is fair game.
+2. There's no benefit to logging more than 4 hours. It won't roll over to workshift or anything else.
