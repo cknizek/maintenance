@@ -4,6 +4,10 @@ title: active_tasks
 permalink: /active_tasks/
 ---
 
+# READ
+- Ignore all instructions w.r.t. email/Google Drive. 
+- Fill out a maintenance request when an issue is discovered
+- 
 # Electrical
 - Use GFCI outlet tester to individually test, inspect, and record operating parameters for each GFCI outlet in each bathroom. Write down voltage, any error codes (or lack thereof), as well as the GFCI trip-time. Upload the recorded data to your crew Google Drive folder.
 - Use outlet tester on all outlets in common spaces. Upload all relevant data (receptable voltage and any error codes). Use multimeter and measure the neutral-to-ground voltage. Set the multimeter to the ~200V dial (for AC), place the positive (red) probe in the neutral slot, and the negative (black) probe in the ground slot. Record the voltage displayed on the multimeter and upload it along with the outlet tester data.
