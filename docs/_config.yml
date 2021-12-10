@@ -1,7 +1,7 @@
 title: under construction
 email: colinknizek at gmail 
 description: >- # this means to ignore newlines until "baseurl:"
-  Made by Colin Knizek. Putting my full name so the allmighty big G indexes this site...
+  Made by Colin Knizek. Putting my full name so the allmighty Google indexes this site...
 baseurl: "/maintenance" # the subpath of your site, e.g. /blog
 url: "https://cknizek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 markdown: kramdown
