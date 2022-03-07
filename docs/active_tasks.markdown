@@ -7,6 +7,7 @@ permalink: /active_tasks/
 # READ
 - Ignore all instructions w.r.t. email/Google Drive. 
 - Fill out a maintenance request when an issue is discovered
+- A LOT of this stuff is out of date. This page is to give a general idea of what is possible for maintenance workshift beyond the restrictions of the bounty board. 
 - 
 # Electrical
 - Use GFCI outlet tester to individually test, inspect, and record operating parameters for each GFCI outlet in each bathroom. Write down voltage, any error codes (or lack thereof), as well as the GFCI trip-time. Upload the recorded data to your crew Google Drive folder.
