@@ -4,10 +4,19 @@ title: links
 permalink: /links/
 ---
 
-[Maintenance request form](https://clomm.atlassian.net/servicedesk/customer/portal/3)
+[Maintenance Request Portal](https://clomm.atlassian.net/servicedesk/customer/portal/3)
 
-[HI Bounty Board](https://docs.google.com/spreadsheets/d/1J_2YodF0wDolqIk0BTFXWRpBUSb7Mz0wIpOnSpoYwvg/edit?usp=sharing)
+[Appointment Booking](https://calendly.com/knizek)
 
-[HI Submission Form](https://forms.gle/ziJ7N8qK2WKbNyuM9)
+[Toolshare Request Form](https://forms.gle/t3rLY7goWWd6UY926)
 
-[HI Progress Board](https://docs.google.com/spreadsheets/d/1co3I-aJ2o7JQqcNTKZ4hVCOSm9ebm_go1kx-9a3O-Y0/edit?usp=sharing)
+[Toolshare Purchase Request Form](https://forms.gle/atHZi1djEzWEfjmm8)
+
+Work Phone: (510) 859-3836
+
+Work Schedule
+| July (Week 2)                        | July (Week 3)                         | July (Week 4)                          |
+|--------------------------------------|---------------------------------------|----------------------------------------|
+| Friday, July 15th: 2:00pm - 6:00pm   | Saturday, July 23rd:  9:00am - 1:00pm | Saturday,  July 30th:  9:00am - 1:00pm |
+| Monday,  July 18th: 9:00am - 12:00pm | Sunday,   July 24th:  9:00am - 1:00pm | Sunday,    July 31st:  9:00am - 1:00pm |
+| Tuesday, July 19th: 6:00pm - 9:00pm  | Monday,  July 25th:  9:00am - 12:00pm | Monday, August 1st:  9:00am - 12:00pm  |
