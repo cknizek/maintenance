@@ -4,13 +4,13 @@ title: links
 permalink: /links/
 ---
 
-[Maintenance Request Portal](https://clomm.atlassian.net/servicedesk/customer/portal/3)
+🔧 [Maintenance Request Portal](https://clomm.atlassian.net/servicedesk/customer/portal/3)
 
-[Appointment Booking](https://calendly.com/knizek)
+📅 [Appointment Booking](https://calendly.com/knizek)
 
-[Toolshare Request Form](https://forms.gle/t3rLY7goWWd6UY926)
+📝 [Toolshare Request Form](https://forms.gle/t3rLY7goWWd6UY926)
 
-[Toolshare Purchase Request Form](https://forms.gle/atHZi1djEzWEfjmm8)
+🫰 [Toolshare Purchase Request Form](https://forms.gle/atHZi1djEzWEfjmm8)
 
 Work Phone: (510) 859-3836
 
