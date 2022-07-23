@@ -14,7 +14,8 @@ permalink: /links/
 
 Work Phone: (510) 859-3836
 
-Work Schedule
+#### Work Hours
+
 | July (Week 2)                        | July (Week 3)                         | July (Week 4)                          |
 |--------------------------------------|---------------------------------------|----------------------------------------|
 | Friday, July 15th: 2:00pm - 6:00pm   | Saturday, July 23rd:  9:00am - 1:00pm | Saturday,  July 30th:  9:00am - 1:00pm |
